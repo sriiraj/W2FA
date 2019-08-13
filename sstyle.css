@@ -53,6 +53,7 @@ h3{
 	display: flex;
 	justify-content: center;
     flex-direction: row;
+    
 }
 table{
     margin-left:auto;
